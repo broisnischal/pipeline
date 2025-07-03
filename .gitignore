@@ -1,0 +1,10 @@
+build
+node_modules
+.DS_Store
+package-lock.json
+.react-router
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
